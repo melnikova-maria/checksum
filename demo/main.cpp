@@ -1,3 +1,4 @@
+// Copyright 2022 Melnikova Maria <dandelion.m@mail.ru>
 #include <iostream>
 #include <boost/program_options.hpp>
 #include <boost/unordered_map.hpp>
